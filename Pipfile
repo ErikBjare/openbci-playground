@@ -5,6 +5,13 @@ verify_ssl = true
 
 [dev-packages]
 pytest = "*"
+pylint = "*"
 
 [packages]
-openbci-python = "*"
+pyopenbci = "*"
+pyserial = "*"
+numpy = "*"
+bitstring = "*"
+xmltodict = "*"
+requests = "*"
+matplotlib = "*"
